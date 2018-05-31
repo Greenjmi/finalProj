@@ -2,14 +2,14 @@
 
 # Project Title and purpose
 
-One Paragraph of project description goes here
+The title of this project is Choose Your Own Java. The purpose of this game is to entertain and challenge the player to make the right decisions. The game also challenges the player because some of the best decisions bring you right back to the beginning of the program. This project helped me understand how if statements work and how different screens with buttons work. Last year in code studio, making new screens was very simple. This year, we had to actually write the code to switch screens. 
 
 ### Difficulties or opportunities you encountered along the way.
 
-The toughest part was...
+The toughest part was creating the story line of the adventure. It was tricky because I needed to think of something from scratch that was original. I had a great time doing it though because I love being creative and there are not many oppertunities to be creative in school these days.
 
 ### Most interesting piece of your code and explanation for what it does.
-
+The most interesting peice of code is the massive block of text that sits right in the middle. It looks intimidating when you look at it but its very simple. It is basically a println that is told were to print based on the button pressed.
 ```Java
 PVector buttonSize = new PVector (150, 30);
 
@@ -268,11 +268,9 @@ This is the code that moves down the tree as decisions are made.  It gets each v
 
 ## Authors
 
-* **Billie Thompson** 
-
+Jake Green
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Hat tip to the choose your own adventure books for inspiring me!
+Hat tip to the internet (processing) for showing me how to make a button!
